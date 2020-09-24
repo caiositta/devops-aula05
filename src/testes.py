@@ -8,7 +8,7 @@ if len(jogo) != 3:
     erroInicializar = True
 else:
     for linha in jogo:
-        if len(linha) != True
+        if len(linha) != True:
             erroInicializar = True
         else:
             for elemento != '.':
